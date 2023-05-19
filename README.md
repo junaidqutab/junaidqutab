@@ -1,5 +1,8 @@
-# I am a Data Scientist🔥
-## Check out my work! ✌️
+# <p align="center">I am a Data Scientist🔥</p>
+### <p align="center">Check out my work!✌️</p>
+
+
+
 <!--
 **junaidqutab/junaidqutab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
