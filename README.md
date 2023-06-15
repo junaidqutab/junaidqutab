@@ -1,4 +1,4 @@
-## <p align="center"> :microphone: Greetings, Ladies and Gentlemen. I am Junaid Qutab and these are my Projects!</p>
+## <p align="center"> :microphone: Greetings, Ladies and Gentlemen. I am Junaid Qutab and these are my Projects.</p>
 <br/>
 <br/>
 
