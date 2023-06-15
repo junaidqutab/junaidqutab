@@ -16,7 +16,7 @@ Implemented the paper *Watermarking of chest CT scan medical images for content 
 
 ### Eigenfaces for Recognition ~ Nov '20 (Stat. & Math. Methods in Data Science Course)
 Implemented the paper *Eigenfaces for Recognition by Turk and Pentland (1991)* to demonstrate the use of PCA as a means of dimensionality reduction for high dimensional images. The project aimed to build a classifier to identify a set of matching distributions after removing highly covarying data from the dataset. Identical facial images were reconstructed from the given test sample. The classifier achieved a testing error of 34% using just 80 principal components.<br/>
-**Tools used: Python, Numpy, Matplotlib and Sklearn**<br/>
+**Tools used: Python, Numpy, Matplotlib and scikit-learn**<br/>
 https://github.com/junaidqutab/eigenfaces4recognition<br/>
 
 
