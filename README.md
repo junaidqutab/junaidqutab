@@ -1,5 +1,13 @@
-[//] <> (# <p align="center">I am a Data Scientist</p>)
-### <p align="center">Good Evening, ladies and gentlemen. I am Junaid Qutab and these are my projects!</p>
+## <p align="center"> :microphone: Good evening, ladies and gentlemen. I am Junaid Qutab and these are my projects!</p>
+<br/>
+<br/>
+
+### Eigenfaces for Recognition (Fall 2020)
+Implemented the paper *Eigenfaces for Recognition by Turk and Pentland (1991)* to demonstrate the use of PCA as a means of dimensionality reduction for high dimensional images. The project aimed to build a classifier to identify a set of matching distributions after removing highly covarying data from the dataset. Identical facial images were reconstructed from the given test sample. The classifier achieved a testing error of 34% using just 80 principal components.<br/>
+**Tools used: IPython, Numpy, Matplotlib, Sklearn**
+
+
+
 
 
 
