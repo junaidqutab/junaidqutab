@@ -1,5 +1,5 @@
-# <p align="center">I am a Data Scientist🔥</p>
-### <p align="center">Check out my work!✌️</p>
+[//] <> (# <p align="center">I am a Data Scientist</p>)
+### <p align="center">Good Evening, ladies and gentlemen. I am Junaid Qutab and these are my projects!</p>
 
 
 
