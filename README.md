@@ -8,7 +8,7 @@ Implemented the paper *A novel hash function based fragile watermarking method f
 
 ### Object Detection using MASK-RCNN and Transfer Learning ~ Apr '21 (Deep Learning Course)
 This project involved manually annotating, and training a classifier to identify text on images of several passports and CNICs for identification information. The annotation accuracies were measured using Intersection-over-Union. The trained weights were then saved in h5py format and reused for testing images, exhibiting an effective use of transfer learning.<br/>
-**Tools used: Python, Keras and h5py**
+**Tools used: Python, Keras and h5py**<br/>
 <a href = "https://github.com/junaidqutab/ObjectDetectionMaskRCNN" target = "_blank">Link</a>
 
 ### Watermarking of chest CT scan medical images for content authentication ~ Dec '20 (Applied Image Processing Course)
