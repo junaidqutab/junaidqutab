@@ -4,7 +4,8 @@
 
 ### A Novel Hash Function-based Fragile Watermarking Method for Image Integrity ~ May '22 (Advanced Computer Vision Course)
 Implemented the paper *A novel hash function based fragile watermarking method for image integrity by Ertugrul Gul & Serkan Ozturk*. The procedure involved dividing an image into 32x32 blocks, and then further dividing each block into 16x16 sub block. A 256-bit hash value of the first three sub-blocks are calculated and it is embedded into the Least Significant Bits of the fourth sub-block. The watermarks are verified for content authentication by obtaining the LSBs of the fourth sub-block. <br/>
-**Tool used: MATLAB**
+**Tool used: MATLAB**<br/>
+<a href="https://github.com/junaidqutab/HashFunctionbasedFragileWatermarking' target="_blank">Link</a>
 
 ### Object Detection using MASK-RCNN and Transfer Learning ~ Apr '21 (Deep Learning Course)
 This project involved manually annotating, and training a classifier to identify text on images of several passports and CNICs for identification information. The annotation accuracies were measured using Intersection-over-Union. The trained weights were then saved in h5py format and reused for testing images, exhibiting an effective use of transfer learning.<br/>
