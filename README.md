@@ -1,4 +1,4 @@
-## <p align="center"> :microphone: Greetings, Ladies and Gentlemen. I am Junaid Qutab and these are my Projects.</p>
+## <p align="center"> :microphone: "Greetings, Ladies and Gentlemen. I am Junaid Qutab and these are my Projects."</p>
 <br/>
 <br/>
 
@@ -17,7 +17,8 @@ This project involved manually annotating, and training a classifier to identify
 ### Watermarking of chest CT scan medical images for content authentication ~ Dec '20 (Applied Image Processing Course)
 #### Collaborated with <a href="https://github.com/M-Asad-Bin-Hameed" target="_blank">Muhammad Asad Bin Hameed</a><br/>
 Implemented the paper *Watermarking of chest CT scan medical images for content authentication by Memon, N. A., & Gilani, S. A. M. (2011)* in order to embed watermarks into CT Scans of lung parenchyma. This helps with authentication. The process involved segmenting images into ROI and RONI and scrambling the data in ROI to place a watermark before unshuffling, The project concluded with the suggestion that image compression can tamper the watermark.<br/>
-**Tool used: MATLAB**
+**Tool used: MATLAB**<br/>
+<a href = "https://github.com/junaidqutab/ChestCTScanWatermarking" target = "_blank">Link</a>
 
 ### Eigenfaces for Recognition ~ Nov '20 (Stat. & Math. Methods in Data Science Course)
 Implemented the paper *Eigenfaces for Recognition by Turk and Pentland (1991)* to demonstrate the use of PCA as a means of dimensionality reduction for high dimensional images. The project aimed to build a classifier to identify a set of matching distributions after removing highly covarying data from the dataset. Identical facial images were reconstructed from the given test sample. The classifier achieved a testing error of 34% using just 80 principal components.<br/>
